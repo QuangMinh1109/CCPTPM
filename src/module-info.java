@@ -18,7 +18,7 @@ public class Main {
         
         List<Integer> randomNumbers = getRandomNumbers(numbers, 5);
         
-        System.out.println("Dãy số ngẫu nhiên:");
+        System.out.println("Dãy số ngẫu nhiên là:");
         for (int number : randomNumbers) {
             System.out.println(number);
         }
